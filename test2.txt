@@ -1,0 +1,41 @@
+React:
+React is a popular open-source JavaScript library used for building interactive and dynamic 
+user interfaces. It allows developers to create reusable components, manage application data 
+using state, and update the user interface efficiently. React uses a virtual DOM to improve 
+performance and is commonly used for developing modern single-page web applications.
+
+Summary :
+React is a JavaScript library used to build fast, 
+interactive, and reusable user interfaces through components.
+
+----------------------------------------------------------------------------------------------
+
+CSS:
+CSS stands for Cascading Style Sheets.It is used to design and style web pages. 
+CSS controls colors, fonts, backgrounds, spacing, borders, layouts, and animations. 
+It makes websites attractive and responsive. CSS works with HTML to improve the appearance and 
+user experience of web applications.
+
+Summary:
+It styles web pages,controls layouts,color,fonts and designs
+
+----------------------------------------------------------------------------------------------
+
+DOM (Document Object Model):
+DOM is a programming interface for HTML and XML documents. It represents a webpage as a tree 
+structure containing elements, attributes and text. JavaScript uses DOM methods to access, 
+modify, add or remove HTML elements, change styles, handle events and update webpage content 
+dynamically without reloading the entire page.
+
+Summary:
+DOM allows JavaScript to dynamically access and modify webpage elements.
+
+----------------------------------------------------------------------------------------------
+
+webpage
+layout
+componenet
+ui 
+single page => multipage(system)
+routing
+global state management
